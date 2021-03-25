@@ -39,5 +39,4 @@ export default class AllIsuesPage extends React.Component {
         );
 
     }
-
-}
+  }
