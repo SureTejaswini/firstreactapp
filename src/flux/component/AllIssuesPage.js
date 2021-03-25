@@ -37,6 +37,5 @@ export default class AllIsuesPage extends React.Component {
             <Link to = "/addIssue"> Add Issue </Link> 
                 </div >
         );
-
     }
   }
